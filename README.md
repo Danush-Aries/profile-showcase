@@ -15,3 +15,7 @@ Push to `main`. Site serves from the root via GitHub Pages.
 
 ## Live
 https://danush-aries.github.io/profile-showcase
+
+## License
+
+MIT — see [LICENSE](LICENSE).
